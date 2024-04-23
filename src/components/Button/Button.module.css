@@ -1,0 +1,7 @@
+.customButton {
+    padding: 13px 25px;
+    border: none;
+    border-radius: 71px;
+    height: 52px;
+    background: var(--accent-color-yellow);
+}

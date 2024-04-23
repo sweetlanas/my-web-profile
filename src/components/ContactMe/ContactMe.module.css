@@ -1,0 +1,33 @@
+.contactMeTitle{
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 64px;
+    letter-spacing: 0.03em;
+    color: var(--primary-text-color);
+    text-align: center;
+}
+
+.contactMeList{
+    display: flex;
+    justify-content: center;
+}
+
+.contactMeLinkText{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 168%;
+    color: var(--primary-text-color);
+    margin-left: -35px;
+    margin-bottom: 16px;
+}
+
+.contactMeLink{
+    display: flex;
+    align-items: center;
+    padding: 0;
+}
+
+.iconItemContactMe {
+    fill: var(--accent-color-blue);
+}

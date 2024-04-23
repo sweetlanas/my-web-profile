@@ -1,0 +1,29 @@
+.serviceItemContainer{
+    background-color: #e9eaec;
+    border-radius: 23px;
+    width: 320px;
+    height: 320px;
+    margin: 12px 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+.serviceItemImg{
+    margin-bottom: 15px;
+}
+
+.serviceItemTitle{
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 25px;
+    color: var(--secondary-text-color);
+    margin-bottom: 10px;
+}
+
+.serviceItemText{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #272b3f;
+}

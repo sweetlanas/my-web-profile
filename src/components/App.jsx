@@ -1,16 +1,21 @@
+import Header from './Header/Header';
+import Main from './Main/Main';
+import AboutMe from './AboutMe/AboutMe';
+import MyServices from './MyServices/MyServices';
+import MyProjects from './MyProjects/MyProjects';
+import ContactMe from './ContactMe/ContactMe';
+import Footer from './Footer/Footer'
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
+    <div>
+      <Header />
+      <Main />
+      <AboutMe />
+      <MyServices />
+      <MyProjects />
+      <ContactMe />
+      <Footer />
     </div>
   );
 };

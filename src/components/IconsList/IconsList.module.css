@@ -1,0 +1,8 @@
+.iconsList{
+    display: flex;
+    justify-content:center;
+}
+
+/*.iconItem {
+    fill: var(--accent-color-blue);
+}*/

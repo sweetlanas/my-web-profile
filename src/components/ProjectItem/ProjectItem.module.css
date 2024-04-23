@@ -1,0 +1,21 @@
+.projectItemImg{
+    margin-bottom: 15px;
+}
+
+.projectItemTitle{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 21px;
+    text-align: center;
+    color: #fad146;
+    padding-bottom: 10px;
+}
+
+.projectItemDesc{
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 21px;
+    color: var(--primary-text-color);
+    padding-bottom: 10px;
+    text-align: center;
+}

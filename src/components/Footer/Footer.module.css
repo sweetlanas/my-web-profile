@@ -1,0 +1,34 @@
+.footerContainer{
+    background-color: var(--accent-color-blue);
+}
+
+.iconFillFooter {
+    fill: var(--accent-color-yellow);
+}
+
+.footerNavContainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-top: 40px;
+}
+.footerCopyright{
+    background-color: var(--accent-color-yellow);
+    margin-top: -30px;
+    text-align: center;
+}
+
+.copyrightText{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 21px;
+    letter-spacing: 0.03em;
+    color: var(--secondary-text-color);
+}
+
+.copyrightTextName{
+    color: var(--primary-text-color);
+    font-weight: 600;
+    padding: 0 5px;
+}

@@ -1,0 +1,22 @@
+.aboutMeTitle{
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 64px;
+    letter-spacing: 0.03em;
+    color: var(--primary-text-color);
+    margin-bottom: 10px;
+    padding-left: 30px;
+}
+
+.aboutMeText{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 168%;
+    text-align: justify;
+    color: var(--primary-text-color);
+}
+
+.aboutMeLink{
+color: var(--accent-color-yellow);
+}

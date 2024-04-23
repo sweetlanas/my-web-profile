@@ -1,0 +1,14 @@
+.navList{
+    display: flex;
+}
+
+.navItem{
+    padding: 10px 14px;
+}
+
+.navLink{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 21px;
+    color: var(--primary-text-color);
+}

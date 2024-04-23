@@ -1,0 +1,21 @@
+.myProjectsTitle{
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 64px;
+    letter-spacing: 0.03em;
+    color: var(--primary-text-color);
+    text-align: center;
+}
+
+.myProjectsList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.myProjectsItem{
+    border-radius: 23px;
+    width: 320px;
+    margin: 12px 30px;
+    text-align: center;
+}

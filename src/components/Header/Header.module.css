@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.headerButton{
+    padding: 13px 25px;
+    border-radius: 71px;
+    height: 52px;
+    background: var(--accent-color-yellow);
+}

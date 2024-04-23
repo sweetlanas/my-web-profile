@@ -1,0 +1,14 @@
+:root {
+    --primary-text-color: #fff;
+    --secondary-text-color: #000;
+
+    --accent-color-yellow: #f9c61b;
+    --accent-color-blue: #1188e7;
+
+    --main-bg-color: #343434;
+
+    --font-family: "Inter",sans-serif;
+    --second-family: "Roboto", sans-serif;
+    
+    --main-btn-color: #f9c61b;
+}

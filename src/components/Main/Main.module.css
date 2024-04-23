@@ -1,0 +1,65 @@
+.mainFlexContainer{
+    display: flex;
+    align-items: flex-start;
+}
+
+.mainHi{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 24px;
+    color: var(--primary-text-color);
+    margin-bottom: 15px;
+}
+
+.mainName{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 32px;
+    color: var(--accent-color-blue);
+}
+
+.mainTitle{
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 92px;
+    color: var(--accent-color-yellow);
+}
+
+.mainTitleAccent{
+    padding-left: 100px;
+}
+
+.mainText{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 168%;
+    text-align: justify;
+    color: var(--primary-text-color);
+}
+
+.mainFotoContainer{
+    padding: 0 50px 30px 50px;
+    border-radius: 47px;
+    background-image: url('../../img/ukraine-ga14bcaf9f_1280.png');
+    background-position: 50% 420%;
+    background-repeat: no-repeat;
+    background-size: 640px 500px;
+}
+
+.mainTextContainer{
+    width: 698px;
+    padding: 30px 30px 30px 0;
+}
+
+.mainTextHiContainer{
+    margin-bottom: 15px;
+}
+
+.mainButtonHire{
+    margin-right: 30px;
+}
+
+.iconsFill{
+    fill: var(--accent-color-blue);
+}
