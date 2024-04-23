@@ -17,8 +17,6 @@ const Footer = () => {
                 <Button text='Back to top' />
                 </div>
                 <IconsList className={styles.iconFillFooter}/>
-                
-                
             </div>
             </div>
             <div className={styles.footerCopyright}>

@@ -11,7 +11,7 @@ const ContactMe = () => {
                         <IconItem className={styles.iconItemContactMe} name='email' />
                         <span className={styles.contactMeLinkText}>info@devstudio.com</span></a>
                 </li>
-                <li class="contacts-list-item" className={styles.contactMeItem}>
+                <li className={styles.contactMeItem}>
                     <a href="tel:+380961111111" className={styles.contactMeLink}>
                         <IconItem className={styles.iconItemContactMe} name='phone' />
                         <span className={styles.contactMeLinkText}>+38 096 111 11 11</span></a>
